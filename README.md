@@ -2,7 +2,7 @@
 
 <!--![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=nberlette&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)-->
 
-[![bmw-dbc stats](https://github-readme-stats.vercel.app/api/pin?username=bmwpi&repo=bmw-dbc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=false&count_private=true)](https://github.com/bmwpi/bmw-dbc) [![bmwpi stats](https://github-readme-stats.vercel.app/api?username=bmwpi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=false&count_private=true&hide=issues,stars)](https://github.com/bmwpi)
+[![bmw-dbc stats](https://github-readme-stats.vercel.app/api/pin?username=bmwpi&repo=bmw-dbc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=false&count_private=true)](https://github.com/bmwpi/bmw-dbc) ![bmwpi stats](https://github-readme-stats.vercel.app/api?username=nberlette&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=false&count_private=true&hide=issues,stars)
 
 <!--
 **nberlette/nberlette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
