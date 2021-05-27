@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![github readme stats](https://github-readme-stats.vercel.app/api/pin?username=bmwcd&repo=bmwcd.js&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues,stars)
+[![github readme stats](https://github-readme-stats.vercel.app/api/pin?username=bmwcd&repo=bmwcd.js&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues,stars)](https://github.com/bmwcd/bmwcd.js)
 
 <!--
 **nberlette/nberlette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
