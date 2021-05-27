@@ -2,6 +2,8 @@
 
 ![github readme stats](https://github-readme-stats.vercel.app/api?username=nberlette&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues,stars)
 
+![Sparkline](https://stars.medv.io/nberlette/badges.svg)
+
 <!--
 **nberlette/nberlette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
