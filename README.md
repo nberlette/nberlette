@@ -2,11 +2,11 @@
 
 🏖 San Diego native living in Las Vegas. Web Dev, SEO, and SMO pay the bills. In the mythical spare time, I enjoy hacking BMWs almost as much as driving them. This is my code playground, more for car-hacking than web-dev.
 
-<!-- [![bmwcd.js stats][bmwcd-readme-stats]][url-bmwcd-repo] -->
-[![npm install bmwcd.js][badge-bmwcd]][url-bmwcd-npm]
-[![BMW-E90.dbc][badge-bmw-e90-dbc]][url-bmw-e90-dbc]
-[![BMW-E39.dbc][badge-bmw-e39-dbc]][url-bmw-e39-dbc]
-[![RememberJimmy.com][badge-rememberjimmy]][url-rememberjimmy]
+[![bmwcd.js stats][bmwcd-readme-stats]][url-bmwcd-repo]
+<!-- [![npm install bmwcd.js][badge-bmwcd]][url-bmwcd-npm] -->
+<!-- [![BMW-E90.dbc][badge-bmw-e90-dbc]][url-bmw-e90-dbc] -->
+<!-- [![BMW-E39.dbc][badge-bmw-e39-dbc]][url-bmw-e39-dbc] -->
+<!-- [![RememberJimmy.com][badge-rememberjimmy]][url-rememberjimmy] -->
 
 
 <!-- ----------
