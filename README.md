@@ -2,7 +2,7 @@
 
 🏖 San Diego native living in Las Vegas. Web Dev, SEO, and SMO pay the bills. In the mythical spare time, I enjoy hacking BMWs almost as much as driving them. This is my code playground, more for car-hacking than web-dev.
 
-[![bmwcd.js stats][bmwcd-readme-stats]][url-bmwcd-repo]
+[![bmwcd.js stats][bmwcd-readme-stats]][url-bmwcd-repo] [![canbus repo stats][canbus-readme-stats]][url-canbus-repo]
 <!-- [![npm install bmwcd.js][badge-bmwcd]][url-bmwcd-npm] -->
 <!-- [![BMW-E90.dbc][badge-bmw-e90-dbc]][url-bmw-e90-dbc] -->
 <!-- [![BMW-E39.dbc][badge-bmw-e39-dbc]][url-bmw-e39-dbc] -->
@@ -12,10 +12,12 @@
 <!-- ----------
      stat cards
      ---------- -->
-[bmwcd-readme-stats]: https://github-readme-stats.vercel.app/api/pin?username=bmwcd&repo=bmwcd.js&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues,stars
+[bmwcd-readme-stats]: https://github-readme-stats.vercel.app/api/pin?username=bmwcd&repo=bmwcd.js&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues,stars 
+[canbus-readme-stats]: https://github-readme-stats.vercel.app/api/pin?username=nberlette&repo=canbus&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues,stars&
 <!-- ----------
      repo links
      ---------- -->
+[url-canbus-repo]: https://git.io/canbus
 [url-bmwcd-repo]: https://github.com/bmwcd/bmwcd.js
 [url-bmwcd-npm]: https://www.npmjs.com/package/bmwcd.js
 [url-rememberjimmy]: https://www.rememberjimmy.com
