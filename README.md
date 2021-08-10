@@ -4,7 +4,7 @@
 
 <!-- [![bmwcd.js stats][bmwcd-readme-stats]][url-bmwcd-repo] -->
 <!-- [![npm install bmwcd.js][badge-bmwcd]][url-bmwcd-npm] -->
-[![canbus repo stats][canbus-readme-stats]][url-canbus-repo]   
+[![emoji repo stats][emoji-readme-stats]][url-emoji-repo] [![canbus repo stats][canbus-readme-stats]][url-canbus-repo]   
 
 [![BMW-E90.dbc][badge-bmw-e90-dbc]][url-bmw-e90-dbc] [![BMW-E39.dbc][badge-bmw-e39-dbc]][url-bmw-e39-dbc] [![RememberJimmy.com][badge-rememberjimmy]][url-rememberjimmy]
 
@@ -12,8 +12,9 @@
 <!-- ----------
      stat cards
      ---------- -->
-[bmwcd-readme-stats]: https://github-readme-stats.vercel.app/api/pin?username=bmwcd&repo=bmwcd.js&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues,stars 
-[canbus-readme-stats]: https://github-readme-stats.vercel.app/api/pin?username=nberlette&repo=canbus&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues,stars&
+[bmwcd-readme-stats]: https://github-readme-stats.vercel.app/api/pin?username=bmwcd&repo=bmwcd.js&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues 
+[canbus-readme-stats]: https://github-readme-stats.vercel.app/api/pin?username=nberlette&repo=canbus&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues&
+[emoji-readme-stats]: https://github-readme-stats.vercel.app/api/pin?username=nberlette&repo=emoji&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true&hide=issues&
 <!-- ----------
      repo links
      ---------- -->
