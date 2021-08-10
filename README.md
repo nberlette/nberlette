@@ -19,6 +19,7 @@
      repo links
      ---------- -->
 [url-canbus-repo]: https://git.io/canbus
+[url-emoji-repo]: https://github.com/nberlette/emoji
 [url-bmwcd-repo]: https://github.com/bmwcd/bmwcd.js
 [url-bmwcd-npm]: https://www.npmjs.com/package/bmwcd.js
 [url-rememberjimmy]: https://www.rememberjimmy.com
