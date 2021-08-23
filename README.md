@@ -9,10 +9,10 @@
 <!-- 🟠  `Svelte and SvelteKit`    -->
 
 
-![nberlette top languages][nb-top-langs]   
+<!-- ![nberlette top languages][nb-top-langs]    -->
 <!-- [![canbus repo stats][canbus-readme-stats]][url-canbus-repo]       -->
 <!-- [![pi-tools][pitools-readme-stats]](https://pi.berlette.com)    -->
-[![emoji repo stats][emoji-readme-stats]][url-emoji-repo]   
+<!-- [![emoji repo stats][emoji-readme-stats]][url-emoji-repo]    -->
 
 ![nberlette status][nberlette-readme-stats]      
 
