@@ -1,13 +1,20 @@
-## Howdy, I'm Nick
+## 🙇‍♂️  Hi, I'm Nick
 
-🏖 San Diego native living in Las Vegas. Web Dev, SEO, and SMO pay the bills. In the mythical spare time, I enjoy hacking BMWs almost as much as driving them. This is my code playground, more for car-hacking than web-dev.
+📙  `Learning: Svelte and SvelteKit`   
+<!-- 🧰  `Cloudflare Workers`   -->
+<!-- ☑️  `HTML5 + CSS3 + SCSS`   
+🟢  `Node.js and Express`   
+🔵  `Next.js and React`  
+⚛️ `Preact + @preact/compat`   -->
+<!-- 🟠  `Svelte and SvelteKit`    -->
+
+
+![nberlette top languages][nb-top-langs]   
+<!-- [![canbus repo stats][canbus-readme-stats]][url-canbus-repo]       -->
+<!-- [![pi-tools][pitools-readme-stats]](https://pi.berlette.com)    -->
+[![emoji repo stats][emoji-readme-stats]][url-emoji-repo]   
 
 ![nberlette status][nberlette-readme-stats]      
-
-![nberlette top languages][nb-top-langs] [![canbus repo stats][canbus-readme-stats]][url-canbus-repo]      
-
-[![pi-tools][pitools-readme-stats]](https://pi.berlette.com) [![emoji repo stats][emoji-readme-stats]][url-emoji-repo]   
-
 
 ---
 
