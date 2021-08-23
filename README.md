@@ -1,4 +1,4 @@
-## 🙇‍♂️  Hi, I'm Nick
+## Hi, I'm Nick
 
 📙  `Learning: Svelte and SvelteKit`   
 <!-- 🧰  `Cloudflare Workers`   -->
