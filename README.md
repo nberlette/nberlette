@@ -1,12 +1,8 @@
-## Hi, I'm Nick
+## Nicholas Berlette
 
-📙  `Learning: Svelte and SvelteKit`   
-<!-- 🧰  `Cloudflare Workers`   -->
-<!-- ☑️  `HTML5 + CSS3 + SCSS`   
-🟢  `Node.js and Express`   
-🔵  `Next.js and React`  
-⚛️ `Preact + @preact/compat`   -->
-<!-- 🟠  `Svelte and SvelteKit`    -->
+Full-stack Web Developer • San Diego • Las Vegas
+
+🟢  `Backends: Node.js + Express`   🔵  `Frontend: Next.js + React`  🟠  `The Edge: Cloudflare Workers`   📙  `Learning: Svelte`   
 
 
 <!-- ![nberlette top languages][nb-top-langs]    -->
@@ -14,20 +10,21 @@
 <!-- [![pi-tools][pitools-readme-stats]](https://pi.berlette.com)    -->
 <!-- [![emoji repo stats][emoji-readme-stats]][url-emoji-repo]    -->
 
-![nberlette status][nberlette-readme-stats]      
+![nberlette status][nb-top-langs2]      
 
----
+<!-- ---
 
 
 
-[![BMW-E90.dbc][badge-bmw-e90-dbc]][url-bmw-e90-dbc] [![BMW-E39.dbc][badge-bmw-e39-dbc]][url-bmw-e39-dbc] [![RememberJimmy.com][badge-rememberjimmy]][url-rememberjimmy]
+[![BMW-E90.dbc][badge-bmw-e90-dbc]][url-bmw-e90-dbc] [![BMW-E39.dbc][badge-bmw-e39-dbc]][url-bmw-e39-dbc] [![RememberJimmy.com][badge-rememberjimmy]][url-rememberjimmy] -->
 
 
 <!-- ----------
      stat cards
      ---------- -->
-[nberlette-readme-stats]: https://gh.tutorialfeed.com/api?username=nberlette&hide_rank=false&show_icons=true&border_radius=8&disable_animations=true&bg_color=20,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true&border_color=904e95&hide=issues
-[nb-top-langs]: https://gh.tutorialfeed.com/api/top-langs?username=nberlette&border_radius=8&disable_animations=true&hide=css,html,typescript,shell,scss&hide_title=false&layout=compact&card_width=350
+[nberlette-readme-stats]: https://gh.tutorialfeed.com/api?username=nberlette&hide_rank=false&show_icons=true&border_radius=20&disable_animations=true&theme=calm&count_private=true&hide=issues
+[nb-top-langs2]: https://gh.tutorialfeed.com/api/top-langs/?username=nberlette&langs_count=4&theme=calm&card_width=400&layout=compact
+[nb-top-langs]: https://gh.tutorialfeed.com/api/top-langs?username=nberlette&border_radius=8&disable_animations=true&hide_title=false&card_width=400
 
 [canbus-readme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=canbus&show_icons=true&border_radius=8&disable_animations=true&icon_color=565656&show_owner=true&line_height=0.9
 
