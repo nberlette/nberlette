@@ -1,8 +1,12 @@
 ## Nicholas Berlette
 
-Full-stack Web Developer • San Diego • Las Vegas
+Web Developer • San Diego • Las Vegas
 
-🟢  `Backends: Node.js + Express`   🔵  `Frontend: Next.js + React`  🟠  `The Edge: Cloudflare Workers`   📙  `Learning: Svelte`   
+📙  `Learning: Svelte; DurableObjects`  
+🔵  `Frontend: Next.js, React, HTML5/CSS3`   
+🟢  `Back-end: Node.js + Express`    
+🟠  `Cloudflare Workers`   
+
 
 
 <!-- ![nberlette top languages][nb-top-langs]    -->
@@ -10,27 +14,21 @@ Full-stack Web Developer • San Diego • Las Vegas
 <!-- [![pi-tools][pitools-readme-stats]](https://pi.berlette.com)    -->
 <!-- [![emoji repo stats][emoji-readme-stats]][url-emoji-repo]    -->
 
-![nberlette status][nb-top-langs2]      
+![nberlette's stats][nberlette-readme-stats] ![nberlette's top languages][nb-top-langs2]    
+![@nberlette/emoji][emoji-readme-stats] ![@nberlette/canbus][canbus-readme-stats]      
 
 <!-- ---
-
-
-
 [![BMW-E90.dbc][badge-bmw-e90-dbc]][url-bmw-e90-dbc] [![BMW-E39.dbc][badge-bmw-e39-dbc]][url-bmw-e39-dbc] [![RememberJimmy.com][badge-rememberjimmy]][url-rememberjimmy] -->
 
+[nberlette-readme-stats]: https://gh.tutorialfeed.com/api?username=nberlette&hide_rank=false&show_icons=true&border_radius=12&disable_animations=true&hide_rank=true&count_private=true&hide_title=true&hide=issues&lineheight=0.8&line_height=24&theme=ayu-mirage&icon_color=fcf5a4
 
-<!-- ----------
-     stat cards
-     ---------- -->
-[nberlette-readme-stats]: https://gh.tutorialfeed.com/api?username=nberlette&hide_rank=false&show_icons=true&border_radius=20&disable_animations=true&theme=calm&count_private=true&hide=issues
-[nb-top-langs2]: https://gh.tutorialfeed.com/api/top-langs/?username=nberlette&langs_count=4&theme=calm&card_width=400&layout=compact
-[nb-top-langs]: https://gh.tutorialfeed.com/api/top-langs?username=nberlette&border_radius=8&disable_animations=true&hide_title=false&card_width=400
+[nb-top-langs2]: https://gh.tutorialfeed.com/api/top-langs/?username=nberlette&langs_count=6&card_width=417&border_radius=12&hide_title=true&hide_repos=vapesurplus&layout=compact&theme=ayu-mirage&icon_color=fcf5a4
+[nb-top-langs]: https://gh.tutorialfeed.com/api/top-langs?username=nberlette&border_radius=8&disable_animations=true&hide_title=false&card_width=400&theme=ayu-mirage&icon_color=fcf5a4
 
-[canbus-readme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=canbus&show_icons=true&border_radius=8&disable_animations=true&icon_color=565656&show_owner=true&line_height=0.9
-
-[emoji-readme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=emoji&show_icons=true&border_radius=8&disable_animations=true&icon_color=565656&show_owner=true
-[pitools-readme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=pi-tools&show_icons=true&border_radius=8&disable_animations=true&icon_color=565656&show_owner=true
-[colorscheme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=color-scheme-change&show_icons=true&border_radius=8&disable_animations=true&icon_color=565656&show_owner=true
+[canbus-readme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=canbus&show_icons=true&border_radius=12&show_owner=true&theme=ayu-mirage&icon_color=fcf5a4
+[emoji-readme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=emoji&show_icons=true&border_radius=12&show_owner=true&theme=ayu-mirage&icon_color=fcf5a4
+[pitools-readme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=pi-tools&show_icons=true&border_radius=12&show_owner=true&theme=ayu-mirage&icon_color=fcf5a4
+[colorscheme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=color-scheme-change&show_icons=true&border_radius=12&show_owner=true&theme=ayu-mirage&icon_color=fcf5a4
 
 
 
