@@ -1,4 +1,8 @@
-## I'm Nicholas Berlette, a 28-year-old web developer with 15 years of experience.
+## 👋  I'm Nicholas Berlette: a 28-year-old developer with 15+ years experience
+
+### Frameworks and platforms I'm currently working with
+
+📙  `Cloudflare Workers`  🔵  `Next.js`  🟢  `Node.js`  🟠  `Svelte`   
 
 ### Developing since day one
 
@@ -18,16 +22,15 @@ Aside from being a freelance developer, I'm also a huge advocate for open source
 
 I'm always open for collaboration and projects of all sizes. [Drop me an email](mailto:nick@berlette.com), [send me a tweet](https://twitter.com/nberlette), or [contact me on **berlette.com**](https://nick.berlette.com) if you're interested in working together. Let's build something awesome!
 
-### Frameworks and platforms I'm currently working with
+## GitHub Stats and Languages
 
-📙  `Cloudflare Workers`  🔵  `Next.js`  🟢  `Node.js`  🟠  `Svelte`    
+![nberlette's github-readme-stats][readme-stats] ![nberlette's top languages][nb-top-langs2]   
 
-![nberlette's github-readme-stats][readme-stats]   
-![nberlette's top languages][nb-top-langs2]   
-[![Ethanol Content Analyzer][eca-readme-stats]][eca-url]
-[![@nberlette/emoji][emoji-readme-stats]][emoji-url]   
-[![@nberlette/canbus][canbus-readme-stats]][canbus-url]   
+> Top languages reflect only my public repositories and the code they consist of. Not an indicator of skill level or talent.
 
+## Recent Repositories
+ 
+[![@nberlette/emoji][emoji-readme-stats]][emoji-url] [![@nberlette/canbus][canbus-readme-stats]][canbus-url] [![Ethanol Content Analyzer][eca-readme-stats]][eca-url] [![@nberlette/phlareact][phlareact-readme-stats]][phlareact-url]   
 
 [readme-stats]: https://gh.tutorialfeed.com/api?username=nberlette&hide_rank=false&show_icons=true&border_radius=12&disable_animations=true&hide_rank=true&count_private=true&hide_title=true&hide=issues&lineheight=0.8&line_height=24&theme=ayu-mirage&icon_color=fcf5a4
 [nb-top-langs2]: https://gh.tutorialfeed.com/api/top-langs/?username=nberlette&langs_count=6&card_width=417&border_radius=12&hide_title=true&hide_repos=vapesurplus&layout=compact&theme=ayu-mirage&icon_color=fcf5a4
@@ -43,3 +46,5 @@ I'm always open for collaboration and projects of all sizes. [Drop me an email](
 [pitools-readme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=pi-tools&show_icons=true&border_radius=12&show_owner=true&theme=ayu-mirage&icon_color=fcf5a4
 [colorscheme-url]: https://git.io/darkmode
 [colorscheme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=color-scheme-change&show_icons=true&border_radius=12&show_owner=true&theme=ayu-mirage&icon_color=fcf5a4
+[phlareact-url]: https://git.io/phlareact
+[phlareact-readme-stats]: https://gh.tutorialfeed.com/api/pin?username=nberlette&repo=phlareact&show_icons=true&border_radius=12&show_owner=true&theme=ayu-mirage&icon_color=fcf5a4
