@@ -9,18 +9,17 @@
 I'm told that as a toddler, my favorite toy was the household vacuum cleaner. Apparently I was very good at disassembling it... and not so good at putting it back together. Just before Y2K, when I was 6 years old, I helped my dad build my first computer. I was immediately hooked on anything (and everything) digital.
 
 Fast forward to ~2004 and I was knee-deep in XHTML (remember that?) and CSS. It wasn't much later that I discovered I was able to help people with my coding, and get paid for it too (yeah, total jawbreaker to a young teenager). I had a pretty sweet hustle back then (custom MySpace pages for friends 😁 ), but picking up a real client with a **very real** payday, was a game-changer.   
+<!-- In another place and at another time, I'll write more about the years between then and now (2021), but it's safe to say the internet today is quite different from when I started coding. Standards have changed, infrastructure has grown, and access to resources / knowledge around coding has absolutely exploded. -->
 
-In another place and at another time, I'll write more about the years between then and now (2021), but it's safe to say the internet today is quite different from when I started coding. Standards have changed, infrastructure has grown, and access to resources / knowledge around coding has absolutely exploded.
+I've been lucky enough to see the web grow and transform over my life thus far, and I utilize this to better help my clients develop a strategy for the future.   
 
-I've been lucky enough to see the web grow and transform over my life thus far, and utilize this to better help my clients develop a strategy for the future.   
+### Interested in working together?
+
+I'm always open for collaboration and projects of all sizes. [Drop me an email](mailto:nick@berlette.com), [send me a tweet](https://twitter.com/nberlette), or [contact me on **berlette.com**](https://nick.berlette.com) if you're interested in working together. Let's build something awesome!
 
 ### Open Source Advocate 
 
 Aside from being a freelance developer, I'm also a huge advocate for open source software initiatives and educating young people in the areas of STEM and computer science. The future is now, as they say, and with the resources we have available at our fingertips, we're truly only limited by our imaginations.
-
-## Interested in working together?
-
-I'm always open for collaboration and projects of all sizes. [Drop me an email](mailto:nick@berlette.com), [send me a tweet](https://twitter.com/nberlette), or [contact me on **berlette.com**](https://nick.berlette.com) if you're interested in working together. Let's build something awesome!
 
 ## GitHub Stats and Languages
 
