@@ -1,8 +1,8 @@
-## 👋  I'm Nicholas Berlette: a 28-year-old developer with 15+ years experience
+## 👋  I'm Nicholas. I like to develop stuff.
 
 ### Frameworks and platforms I'm currently working with
 
-📙  `Cloudflare Workers`  🔵  `Next.js`  🟢  `Node.js`  🟠  `Svelte`   
+📙  `Cloudflare Workers`   🟠  `Svelte` + `SvelteKit`   🔵  `Next.js`  🟢  `Node.js` 
 
 ### Developing since day one
 
