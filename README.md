@@ -28,11 +28,10 @@ Aside from being a freelance developer, I'm also a huge advocate for open source
 
 <div align=center>
 
-![nberlette's github-readme-stats][readme-stats] ![nberlette's top languages][nb-top-langs2]   
+![nberlette's top languages][nb-top-langs2]   
 
-<em><small>Top languages reflect only my public repositories and the code they consist of. Not an indicator of skill level or talent.</small></em>
+ <em><small>Reflects the code of my public repositories, <strong>not</strong> a measure of skill or experience.</small></em>
 
- 
  </div>
  
  
