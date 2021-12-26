@@ -9,17 +9,7 @@
 <img src="https://icns.cf/cloudflare" alt="Cloudflare Workers + Pages" width="72" />  <img src="https://icns.cf/gitpod" alt="Gitpod" width="72" />  <img src="https://icns.cf/nextdotjs/556677" alt="React + Next.js" width="72" />  <img src="https://icns.cf/svelte" alt="Svelte + SvelteKit" width="72" />  <img src="https://icns.cf/nuxtdotjs" alt="Vue.js and NuxtJS" width="72" />  <img src="https://icns.cf/sass" alt="SCSS (SASS)" width="72" />  <img src="https://icns.cf/nodedotjs" alt="Node.js" width="72" />   <img src="https://icns.cf/typescript" alt="TypeScript" width="72" />
 </div>
 
-<br><br>
-
-<div align=center>
-
-![nberlette's github-readme-stats][readme-stats] ![nberlette's top languages][nb-top-langs2]   
-
-<em><small>Top languages reflect only my public repositories and the code they consist of. Not an indicator of skill level or talent.</small></em>
-
- 
- </div>
- 
+<br>
  
 ---  
 
@@ -33,6 +23,18 @@ I'm always open for collaboration and projects of all sizes. [Drop me an email](
 Aside from being a freelance developer, I'm also a huge advocate for open source software and educating others from all walks of life in computer science, programming, embedded systems, and STEM in general.
 
 ---  
+
+<br>
+
+<div align=center>
+
+![nberlette's github-readme-stats][readme-stats] ![nberlette's top languages][nb-top-langs2]   
+
+<em><small>Top languages reflect only my public repositories and the code they consist of. Not an indicator of skill level or talent.</small></em>
+
+ 
+ </div>
+ 
  
  
 [readme-stats]: https://gh.tutorialfeed.com/api?username=nberlette&hide_rank=false&show_icons=true&border_radius=12&disable_animations=true&hide_rank=true&count_private=true&hide=issues&hide_title=true&lineheight=0.9&line_height=25&theme=ayu-mirage&icon_color=fcf5a4
