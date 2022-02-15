@@ -3,9 +3,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "20 4 * * *" 
-  push:
-    branches:
-      - main
 env:
   ASSETS: .github/assets
 jobs:
@@ -63,9 +60,17 @@ jobs:
         with:
           name: assets
           path: ./.github/assets
+      -
+        name: "Import GPG to Sign Commits"
+        uses: crazy-max/ghaction-import-gpg@v3
+        with:
+          gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          git-user-signingkey: true
+          git-commit-gpgsign: true
       - 
-        if: ${{ success() }}
         name: "Commit + Push Updates"
+        if: success()
         uses: crazy-max/ghaction-github-pages@v2.6.0
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
