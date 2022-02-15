@@ -1,0 +1,54 @@
+image: nberlette/gitpod-enhanced:latest
+
+ports:
+  - port: 3000-5000
+    onOpen: open-preview
+    visibility: private
+
+gitConfig:
+  tag.gpgsign: true
+  commit.gpgsign: true
+  user.name: "Nicholas Berlette"
+  user.email: "nick@berlette.com"
+  user.signingkey: 0DCD135F
+  github.user: nberlette
+
+github:
+  prebuilds:
+    master: true
+    branches: true 
+    pullRequests: true
+    pullRequestsFromForks: true
+    addLabel: true
+    addBadge: true
+    addCheck: true
+
+vscode:
+  extensions:
+    - github.copilot-nightly
+    - vsls-contrib.gistfs
+    - eamodio.gitlens
+    - antfu.browse-lite
+    - mrmlm.vscode-scss
+    - svelte.svelte-vscode
+    - RafaelMartinez.svelte-preview
+    - fivethree.vscode-svelte-snippets
+    - antfu.vite
+    - voorjaar.windicss-intellisense
+    - timonwong.shellcheck
+    - mads-hartmann.bash-ide-vscode
+    - foxundermoon.shell-format
+    - redhat.vscode-yaml
+    - DotJoshJohnson.xml
+    - Jacano.vscode-pnpm
+    - gamunu.vscode-yarn
+    - christian-kohler.npm-intellisense
+    - christian-kohler.path-intellisense
+    - editorconfig.editorconfig
+    - esbenp.prettier-vscode
+    - dbaeumer.vscode-eslint
+    - DavidAnson.vscode-markdownlint
+    - yzhang.markdown-all-in-one
+    - PKief.markdown-checkbox
+    - TakumiI.markdowntable
+    - jock.svg
