@@ -1,5 +1,10 @@
 image: nberlette/gitpod-enhanced:latest
 
+tasks:
+  - before: pnpm install
+    init: pnpm add -g degit tsm typescript @types/node
+    command: pnpm dev
+
 ports:
   - port: 3000-5000
     onOpen: open-preview
