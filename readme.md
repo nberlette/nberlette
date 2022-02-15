@@ -30,10 +30,9 @@ Aside from being a freelance developer, I'm also a huge advocate for open source
 
 ![nberlette's top languages][nb-top-langs2]   
 
- <em><small>Reflects the code of my public repositories, <strong>not</strong> a measure of skill or experience.</small></em>
-
- </div>
- 
+<em><small>Reflects the code of my public repositories, <strong>not</strong> a measure of skill or experience.</small></em><br>
+<a href="https://github.com/nberlette?tab=repositories"><img src="https://raw.githubusercontent.com/nberlette/nberlette/main/.github/assets/snek.svg" alt="Snek Contributions Graphic" width="100%" /></a>
+</div>
  
  
 [readme-stats]: https://gh.tutorialfeed.com/api?username=nberlette&hide_rank=false&show_icons=true&border_radius=12&disable_animations=true&hide_rank=true&count_private=true&hide=issues&hide_title=true&lineheight=0.9&line_height=25&theme=ayu-mirage&icon_color=fcf5a4
