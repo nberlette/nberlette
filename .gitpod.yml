@@ -6,17 +6,16 @@ ports:
     visibility: private
 
 gitConfig:
-  tag.gpgsign: true
-  commit.gpgsign: true
+  tag.gpgsign: "true"
+  commit.gpgsign: "true"
   user.name: "Nicholas Berlette"
   user.email: "nick@berlette.com"
   user.signingkey: 0DCD135F
-  github.user: nberlette
 
 github:
   prebuilds:
     master: true
-    branches: true 
+    branches: true
     pullRequests: true
     pullRequestsFromForks: true
     addLabel: true
