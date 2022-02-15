@@ -1,0 +1,78 @@
+name: Make Snek
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 4 * * *" 
+env:
+  ASSETS: .github/assets
+jobs:
+  build:
+    name: "Create contribution sneks"
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - 
+        name: "Create assets directory"
+        run: |
+          [ ! -d $ASSETS ] && 
+            mkdir -p -v $ASSETS && 
+              printf "\n\e[1;32m✅️  Successfully created %s\e[0m\n\n" $ASSETS
+      - 
+        name: "Generate Assets"
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{github.repository_owner}}
+          svg_out_path: assets/snek.svg
+          gif_out_path: assets/snek.gif
+      - 
+        name: "Upload Artifacts"
+        uses: actions/upload-artifact@v2.3.1
+        with:
+          name: assets
+          path: |
+            assets/snek.svg
+            assets/snek.gif
+          if-no-files-found: warn
+          retention-days: 7
+          
+  update:
+    name: "Push updated sneks to main"
+    runs-on: ubuntu-latest
+    needs: [build]
+    steps:
+      - 
+        name: "Checkout repository"
+        uses: actions/checkout@v2
+      - 
+        name: "Ensure .github/assets exists"
+        run: |
+          if [ -e "./.github/assets" ]; then
+            rm -rf ./.github/assets/snek.* 2>/dev/null && \
+            printf "\n\e[1;32m✅️  Old files removed from %s\e[0m\n\n" ".github/assets"
+          else
+            mkdir -p -v ./.github/assets && \
+            printf "\n\e[1;32m✅️  Successfully created %s\e[0m\n\n" ".github/assets"
+          fi
+        working-directory: ./
+      -
+        name: "Download artifacts"
+        uses: actions/download-artifact@v2.1.0
+        with:
+          name: assets
+          path: ./.github/assets
+      - 
+        if: ${{ success() }}
+        name: "Commit + Push Updates"
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          target_branch: main
+          build_dir: .
+          keep_history: true
+          author: "Nicholas Berlette <nick@berlette.com>"
+          committer: "Nicholas Berlette <nick@berlette.com>" # "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          commit_message: "[action]: update contribution sneks"
+          jekyll: false
+          dry_run: false
+          verbose: true
