@@ -3,6 +3,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "20 4 * * *" 
+  push:
+    branches:
+      - main
 env:
   ASSETS: .github/assets
 jobs:
@@ -73,6 +76,5 @@ jobs:
           author: "Nicholas Berlette <nick@berlette.com>"
           committer: "Nicholas Berlette <nick@berlette.com>" # "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           commit_message: "[action]: update contribution sneks"
-          jekyll: false
           dry_run: false
           verbose: true
