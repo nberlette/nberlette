@@ -10,27 +10,10 @@
 </div>
 
 <br>
- 
----  
-
-### Interested in working together?
-
-I'm always open for collaboration and projects of all sizes. [Drop me an email](mailto:nick@berlette.com), [send me a tweet](https://twitter.com/nberlette), or [contact me on **berlette.com**](https://n.berlette.com) if you're interested in working together. Let's build something awesome!
-
-
-### Open Source Advocate 
-
-Aside from being a freelance developer, I'm also a huge advocate for open source software and educating others from all walks of life in computer science, programming, embedded systems, and STEM in general.
-
----  
-
 <br>
 
 <div align=center>
 
-![nberlette's top languages][nb-top-langs2]   
-
-<em><small>Reflects the code of my public repositories, <strong>not</strong> a measure of skill or experience.</small></em><br>
 <a href="https://github.com/nberlette?tab=repositories"><img src="https://raw.githubusercontent.com/nberlette/nberlette/main/.github/assets/snek.svg" alt="Snek Contributions Graphic" width="100%" /></a>
 </div>
  
