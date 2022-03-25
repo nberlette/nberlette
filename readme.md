@@ -11,12 +11,12 @@
 
 <br>
 <br>
-
+<!-- 
 <div align=center>
 
 <a href="https://github.com/nberlette?tab=repositories"><img src="https://raw.githubusercontent.com/nberlette/nberlette/main/.github/assets/snek.svg" alt="Snek Contributions Graphic" width="100%" /></a>
 </div>
- 
+  -->
  
 [readme-stats]: https://gh.tutorialfeed.com/api?username=nberlette&hide_rank=false&show_icons=true&border_radius=12&disable_animations=true&hide_rank=true&count_private=true&hide=issues&hide_title=true&lineheight=0.9&line_height=25&theme=ayu-mirage&icon_color=fcf5a4
 [nb-top-langs2]: https://gh.tutorialfeed.com/api/top-langs/?username=nberlette&langs_count=6&card_width=460&border_radius=12&layout=compact&theme=ayu-mirage&icon_color=fcf5a4
