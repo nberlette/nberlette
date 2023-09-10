@@ -61,10 +61,6 @@ jobs:
           name: assets
           path: ./.github/assets
       -
-        run: |
-          gpg --batch --import <(echo "${{ secrets.GPG_PRIVATE_KEY }}")
-          gpg --keyserver pgp.mit.edu --refresh-keys
-      -
         name: "Import GPG to Sign Commits"
         uses: crazy-max/ghaction-import-gpg@v5
         with:
